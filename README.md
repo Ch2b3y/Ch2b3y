@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ch2b3y
+- 👀 I’m interested in Product Design and Development
+- 🌱 I’m currently learning Frontend Dev
+- 💞️ I’m looking to collaborate on all Web and Mobile App Design and Development projects
+- 📫 How to reach me ...via email: jubochi23@gmail.com
